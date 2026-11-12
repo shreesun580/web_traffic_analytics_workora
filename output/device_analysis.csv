@@ -1,0 +1,4 @@
+DeviceCategory,Total_Sessions,Average_Duration,Average_PageViews,Registration_Started,Completed_Registrations,Bounced_Sessions,Conversion_Rate,Bounce_Rate
+Desktop,261,247.59,3.49,89,57,12,21.84,4.6
+Mobile,593,242.26,3.45,178,104,30,17.54,5.06
+Tablet,46,236.04,3.28,10,5,2,10.87,4.35
